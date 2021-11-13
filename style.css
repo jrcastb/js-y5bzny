@@ -91,7 +91,7 @@ body {
   width: 960px;
   max-width: 100%;
 }
-article {
+/*article {
   float: left;
   width: 720px;
 }
@@ -101,7 +101,7 @@ article p:first-of-type {
 aside {
   float: right;
   width: 120px;
-}
+}*/
 p img {
   max-width: 100%;
 }
